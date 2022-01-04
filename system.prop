@@ -1,0 +1,6 @@
+#
+# system.prop for m18s
+#
+ro.buiro.build.fingerprint=Coolpad/Coolpad5270/Coolpad5270:5.1/LMY47D/5.1.005.P1.160506.5270:user/release-keys
+
+ro.mediatek.platform=MT6735
