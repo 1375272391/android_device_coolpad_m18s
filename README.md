@@ -32,6 +32,6 @@ $ make -jx recoveryimage //replace x in -jx with number of cores you want to all
 ```
 ## Kernel
 
-i can't find it, but it has a perbuild kernel 
+i can't find it, it only  has a perbuild kernel 
 
 **Copyright 2019 The Android Open Source Project**
