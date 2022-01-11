@@ -12,7 +12,7 @@ It was released in February 2016.
 | Memory                  | 1 GB RAM                                                                                                                       |
 | Shipped Android Version | 5.1                                                                                                                            |
 | Storage                 | 8 GB                                                                                                                           |
-| Battery                 | removable Li-Ion 2000 mAh battery                                                                                              |
+| Battery                 | Removable Li-Ion 2000 mAh battery                                                                                              |
 | Display                 | 854 x 480 pixels, 16:9 ratio (~196 ppi density)                                                                                |
 | Camera (Back)(Main)     | 5 MP                                                                                                                           |
 | Camera (Front)          | 0.2 MP                                                                                                                         |
@@ -24,7 +24,7 @@ It was released in February 2016.
 
 ```
 # Compiling
-$ export ALLOW_MISSING_DEPENDENCIES=true
+$ export ALLOW_MISSING_DEPENDENCIES=true //if you need
 $ . build/envsetup.sh
 $ lunch omni_m18s-eng
 $ make -jx recoveryimage //replace x in -jx with number of cores you want to allot for compilation
