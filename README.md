@@ -12,7 +12,7 @@ It was released in February 2016.
 | Memory                  | 1 GB RAM                                                                                                                       |
 | Shipped Android Version | 5.1                                                                                                                            |
 | Storage                 | 8 GB                                                                                                                           |
-| Battery                 | Removable Li-Ion 2000 mAh battery                                                                                              |
+| Battery                 | Removable Li-Ion 2000 mAh Battery                                                                                              |
 | Display                 | 854 x 480 pixels, 16:9 ratio (~196 ppi density)                                                                                |
 | Camera (Back)(Main)     | 5 MP                                                                                                                           |
 | Camera (Front)          | 0.2 MP                                                                                                                         |
